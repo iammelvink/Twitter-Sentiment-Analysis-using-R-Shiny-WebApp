@@ -1,0 +1,14 @@
+shiny
+twitteR
+stringr
+ROAuth
+RCurl
+ggplot2
+reshape
+tm
+RJSONIO
+wordcloud
+gridExtra
+plyr
+e1071
+plotrix
